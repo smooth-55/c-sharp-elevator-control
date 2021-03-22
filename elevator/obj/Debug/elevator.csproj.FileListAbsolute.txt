@@ -1,0 +1,20 @@
+C:\Users\ig_smooth\Desktop\project\elevator\bin\Debug\elevator.exe.config
+C:\Users\ig_smooth\Desktop\project\elevator\bin\Debug\elevator.exe
+C:\Users\ig_smooth\Desktop\project\elevator\bin\Debug\elevator.pdb
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.csprojAssemblyReference.cache
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.windowApp.resources
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.exe
+C:\Users\ig_smooth\Desktop\project\elevator\obj\Debug\elevator.pdb
+F:\PCPS\Level5\1st sem\c#\elevator\bin\Debug\elevator.exe.config
+F:\PCPS\Level5\1st sem\c#\elevator\bin\Debug\elevator.exe
+F:\PCPS\Level5\1st sem\c#\elevator\bin\Debug\elevator.pdb
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.csprojAssemblyReference.cache
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.windowApp.resources
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.Properties.Resources.resources
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.exe
+F:\PCPS\Level5\1st sem\c#\elevator\obj\Debug\elevator.pdb
